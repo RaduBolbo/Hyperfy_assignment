@@ -25,7 +25,7 @@
 Probabil as folosi QtDesigner, pentru ca include un pachet - PyQt5, care ofera support pentru multithreading.
 
 In plus, ar trebui sa invat exact cum functioneaza threadurile si procesele in Python. Pana acum nu am mai lucrat cu ele decat in C#. 
-
+O alta varianta ar fi sa folosesc C# pentru a scrie programul master si sa folosesc IronPython pentru a apela cod Pyhon.
 
 
 
